@@ -6,8 +6,7 @@
 //
 //git without commit
 //
-//git origin master
-
+//git origin master and git new branch feature
 
 public class Test{
    int a = 1;
