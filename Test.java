@@ -3,6 +3,8 @@
 //Git is fress software
 //Git has a mutable index called stage
 //Git tracks changes of files
+//
+//git without commit
 
 public class Test{
    int a = 1;
