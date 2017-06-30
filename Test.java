@@ -8,6 +8,13 @@ public class Test{
    public static void main(String[] args){
       
        Test t = new Test();
-       System.out.print(t.a+t.b);
+       System.out.print(t.add());
+   
+   }
+
+
+   public int add(){
+      return this.a+this.b;
+   
    }
 }
