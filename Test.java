@@ -9,6 +9,8 @@ public class Test{
       
        Test t = new Test();
        System.out.print(t.add());
+       System.out.print(t.minus());
+       System.out.print(t.add(5,3));
    
    }
 
@@ -16,5 +18,13 @@ public class Test{
    public int add(){
       return this.a+this.b;
    
+   }
+
+   public int add(int a,int b){
+      return a+b;
+   
+   }
+   public int minus(){
+   	return this.a -this.b;
    }
 }
