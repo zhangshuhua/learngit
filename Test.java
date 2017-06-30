@@ -1,6 +1,8 @@
 
 //Git is a vsrsion control system
 //Git is fress software
+//Git has a mutable index called stage
+//Git tracks changes of files
 
 public class Test{
    int a = 1;
