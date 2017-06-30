@@ -5,6 +5,9 @@
 //Git tracks changes of files
 //
 //git without commit
+//
+//git origin master
+
 
 public class Test{
    int a = 1;
