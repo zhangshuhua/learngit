@@ -4,7 +4,7 @@
 //Git has a mutable index called stage
 //Git tracks changes of files
 //
-//git without commit
+//git without a commit
 //
 //git origin master and git new branch feature
 //
